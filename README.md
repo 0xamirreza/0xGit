@@ -70,30 +70,12 @@ After installation, you can use the `0xgit` command to manage your SSH keys and 
 - **Show Git User**: Display your current Git user configuration
 - **Switch User**: Switch between GitHub users and SSH keys
 
-### Example Usage
+### 0xGit Usage
 
 To start the manager, simply run:
 
 ```bash
 0xgit
-```
-
-It will present you with a menu of available actions. Choose the option that fits your needs.
-
-### Example - Generate a New SSH Key:
-
-```bash
-0xgit
-# Enter the email for your GitHub account
-# Enter a name for your key (e.g., id_ed25519_github)
-```
-
-### Example - Switch GitHub Users:
-
-```bash
-0xgit
-# List available users and keys
-# Enter the key you wish to switch to
 ```
 
 ## Troubleshooting
